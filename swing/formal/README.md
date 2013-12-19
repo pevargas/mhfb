@@ -3,13 +3,17 @@ Spring Formal
 
 This event was a formal swing dance. Please see [the creative brief][d] for the specifics of what I needed to accomplish. Below are the peices I needed to execute. For my first time using Adobe Illustrator, I think I did a good job, haha!
 
-Webportal Slideshow
+Web Portal Graphic
 -------------------
+
+This was to add to the main slideshow on the [Mile High Freedom Band's website][mhfb].
 
 ![Web feature graphic](web-feature.png)
 
 Facebook
 --------
+
+Graphics needed for their facebook page, [Freedom Swing][fb].
 
 ### Event ###
 ![Facebook event cover graphic](facebook-event.png)
@@ -34,4 +38,6 @@ Contact
 
   [w]: http://www.vargascorpus.com/
   [e]: mailto:patrick@vargascorpus.com
-  [d]: "Formal Affair Creative Brief 11.04.13.doc"
+  [d]: Formal Affair Creative Brief 11.04.13.doc
+  [fb]: https://www.facebook.com/mhfswing
+  [mhfb]: http://www.mhfb.org/
