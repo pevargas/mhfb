@@ -18,7 +18,7 @@ Contact
    *  Technology, Arts and Media Minor  
 *  (720) 515 - 6402  
 *  [www.vargascorpus.com][w]  
-*  [patrick.vargas@colorado.edu][e]  
+*  [patrick@vargascorpus.com][e]  
 
   [w]: http://www.vargascorpus.com/
-  [e]: mailto:patrick.vargas@colorado.edu
+  [e]: mailto:patrick@vargascorpus.com
