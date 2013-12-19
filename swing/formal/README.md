@@ -1,7 +1,7 @@
 Spring Formal
 =============
 
-This event was a formal swing dance. Please see ![the creative brief][Formal Affair Creative Brief 11.04.13.doc] for the specifics of what I needed to accomplish. Below are the peices I needed to execute. For my first time using Adobe Illustrator, I think I did a good job, haha!
+This event was a formal swing dance. Below are the pieces I needed to execute. For my first time using Adobe Illustrator, I think I did a good job, haha!
 
 Web Portal Graphic
 -------------------
