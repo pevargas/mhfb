@@ -1,26 +1,24 @@
 Spring Formal
 =============
 
-This event was a formal swing dance. Please see [the creative brief][d] for the specifics of what I needed to accomplish.
-
-Below are the peices I needed to execute. For my first time using Adobe Illustrator, I think I did a good job, haha!
+This event was a formal swing dance. Please see [the creative brief][d] for the specifics of what I needed to accomplish. Below are the peices I needed to execute. For my first time using Adobe Illustrator, I think I did a good job, haha!
 
 Webportal Slideshow
 -------------------
 
-![](web-feature.png)
+![Web feature graphic](web-feature.png)
 
 Facebook
 --------
 
-*** Event ***
-![](facebook-cover.png)
+### Event ###
+![Facebook event cover graphic](facebook-event.png)
 
-*** Page ***
-![](facebook-event.png)
+### Page ###
+![Facebook page cover graphic](facebook-cover.png)
 
-*** Profile Pic ***
-![](web-square-textless-suit01.png)
+### Profile Pic ###
+![Facebook page profile graphic](web-square-textless-suit01.png)
 
 Contact
 -------
