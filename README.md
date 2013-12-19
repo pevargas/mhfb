@@ -7,3 +7,18 @@ Freedom Swing
 -------------
 
 The directory `swing` houses my work for the swing band, Freedom Swing, which is a band under the Mile High Freedom Band group.
+
+Contact
+-------
+
+**Patrick E. Vargas**
+
+*  BS Computer Science, Software Engineering  
+   *  Atmospheric and Oceanic Science Minor  
+   *  Technology, Arts and Media Minor  
+*  (720) 515 - 6402  
+*  [www.vargascorpus.com][w]  
+*  [patrick.vargas@colorado.edu][e]  
+
+  [w]: http://www.vargascorpus.com/
+  [e]: mailto:patrick.vargas@colorado.edu
