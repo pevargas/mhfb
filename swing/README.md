@@ -8,7 +8,7 @@ Spring Formal
 
 This event was a formal swing dance. Below is one of the pieces executed. See the directory `formal` for more of the executed pieces.
 
-![Facebook Event Cover Photo](formal/facebook-event.png)
+![Postcard for the Formal Dancing Event](formal/postcard.png)
 
 Contact
 -------
