@@ -3,6 +3,13 @@ Spring Formal
 
 This event was a formal swing dance. Below are the pieces I needed to execute. For my first time using Adobe Illustrator, I think I did a good job, haha!
 
+Postcard Mailer
+---------------
+
+This postcard was printed and mailed out, as well as used in email communications.
+
+![Postcard Mailer](postcard.png)
+
 Web Portal Graphic
 -------------------
 
